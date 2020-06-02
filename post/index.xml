@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kartik Kumar</title>
+    <link>https://kartikkumar7.github.io/Kartik_Portfolio/post/</link>
+    <description>Recent content in Projects on Kartik Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://kartikkumar7.github.io/Kartik_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4: Computational Skepticism</title>
+      <link>https://kartikkumar7.github.io/Kartik_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 20 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://kartikkumar7.github.io/Kartik_Portfolio/post/project-4/</guid>
+      <description>Conducted research on modern and traditional model interpretability techniques. Wrote a &amp;ldquo;hands-on&amp;rdquo; book explaining why interpretability is needed and gave examples. Book helps understand how to interpret Linear Regression and Deep Learning models using below mentioned techniques. OLS Method - a traditional method used to interpret Linear Regression models.   OLS Statistics    AzureML - A tool made by Microsoft - can be used to achieve model interpretability with global/local feature importance and feature perturbation.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Roommate Connector</title>
+      <link>https://kartikkumar7.github.io/Kartik_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 15 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://kartikkumar7.github.io/Kartik_Portfolio/post/project-3/</guid>
+      <description>Roommate Connector is a social media platform where people can find like minded individuals to be flatmates/roommates. The app allows users to set up a unique profile with their personal details and preferences. Users can filter from a list of other individuals to find a person based on their search. Users can make a post about their requirements and can like/comment on other posts. Users are required to pay minimal amount for this product using Stripe payments.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Spam/Ham Classification using Deep Learning</title>
+      <link>https://kartikkumar7.github.io/Kartik_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Feb 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kartikkumar7.github.io/Kartik_Portfolio/post/project-2/</guid>
+      <description>This project uses Keras Sequential model to analyze SMS spam data and classify texts as &amp;ldquo;Spam&amp;rdquo; or &amp;ldquo;Ham&amp;rdquo;.
+Main part of the project was to tune every single hyperparameter in the model to study the effect n model output.
+  Exploratory Data Analysis     Baseline Model performance     Leaky ReLu activation variation   Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: thatsMyPlace</title>
+      <link>https://kartikkumar7.github.io/Kartik_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 05 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://kartikkumar7.github.io/Kartik_Portfolio/post/project-1/</guid>
+      <description>thatsMyPlace is a Java Swing application that connects users to who want to book a facility in advance to facility owners who want more customers. The application design includes two enterprises and 2-3 organizations per enterprise. App allows a customer to book a facility at an available time slot. Customers can give feedback to the facility after visit. Facility enterprise has Customer Support for managing all feedbacks and requests. Customer support coordinates with Maintenance team of the facility to reduce poor maintenance feedbacks from customer.</description>
+    </item>
+    
+  </channel>
+</rss>
